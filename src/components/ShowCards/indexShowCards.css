@@ -1,0 +1,13 @@
+.cards-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.cards-btn:hover {
+  transform: scale(1.05);
+}
+.cards-img {
+  height: 200px;
+  width: 150px;
+}
